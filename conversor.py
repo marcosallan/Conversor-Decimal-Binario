@@ -34,4 +34,4 @@ while True:
         print('\n' + 20 * '#' + ' FIM ' + 20 * '#' + '\n')
         break
     else:
-        continue # Este bloco não é necessário
+        continue
